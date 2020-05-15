@@ -22,10 +22,10 @@ along with this program.  If not, see https://www.gnu.org/licenses/.
 *	Lighting variables' questions? Contact: hycai@ku.edu 
 
 ----------------------------------------------------------------------------------------------------------------------
-This program is to calculate the illuminance from the High Dynamic Range image (.hdr) taken by circular fisheye lens.
+### This program is to calculate the illuminance from the High Dynamic Range image (.hdr) taken by circular fisheye lens.
 
-To learn how to take a 'Good' HDR image for lighting measurement purpose and use it as the input of this program,
-please check our paper: [under reviewing, to be added here later]  
+To learn how to take a 'Good' HDR image for lighting measurement purpose and use it as the input of this program, http://people.ku.edu/~h717c996/publication.html
+
 ----------------------------------------------------------------------------------------------------------------------
 System Requriement:
  
@@ -33,9 +33,10 @@ Windows 7 or above, MacOS 10.10 or above.
 
 MATLAB release 2018b, 2019a are recommended; Add-on Imgage Processing Toolbox is required.
 
-This program has been tested on a computer Intel i5 2.9GHZ with 8GB RAM.
+### This program has been tested on a computer Intel i5 2.9GHZ with 8GB RAM.
+
 -----------------------------------------------------------------------------------------------------------------------
-REFERENCE:
+## REFERENCE:
 
 [1]Modern Optical Engineering, Warren J. Smith, McGraw-Hill, p.228-230
 
@@ -45,20 +46,21 @@ Guide to Product Specification.International Organization for Standardization.
 [3]Masket,A.Victor(1957)."Solid angle contour integrals,series and tables"Rev.Sci.Instrum.28(3).doi:10.1063/1.1746479.
 
 [4]Greg Ward, Radiance File Formats, Radiace reference, Lawrence Berkerly Lab, 2011. https://floyd.lbl.gov/radiance/refer/
+
 -----------------------------------------------------------------------------------------------------------------------
-Author's Notes:
----------------
-Input
+
+## Input
 
 [1] HDR image (.hdr) or luminance map output from Radiance (.txt).
 
 [2] Fisheye projection selection: equisolid/equidistant (will support more projection in later update).
 
-[3] HDR image must be taken by fisheye lens with supported projection above to calculate illuminance.
+[3] HDR image must be taken by fisheye lens with supported projection above to calculate illuminance
 
 [4] You CAN scale if input is image (.hdr); you MUST specify the resolution if input is luminance map(.txt).
+
 -----------------------------------------------------------------------------------------------------------------------
-Output
+## Output
 
 [1] CV: Coefficient of variance. Evaluate uniformity of lighting environment of your input.
 
@@ -67,12 +69,12 @@ Output
 [3] lux-perpixel: illuminance value calculated by using per-pixel method.
 
 [4] ROI(region of interest): if you want to know how much lux camera received from which object in the scene.
-
 If you select the ROI, the output will tell you lux contributed from selection and its percentage.
 
 [5] Visualized gradient map: For view only; Can give some general idea about which part contribute more lux.
+
 ------------------------------------------------------------------------------------------------------------------------
-Usage:
+## Usage:
 
 1.Open the “main.m”.
 
@@ -100,5 +102,5 @@ Usage:
 11.Output the visulized lux gradient map.
 
 --------------------------------------------------------------------------------------------------------------------------
-The original distribution contain a SAMPLE HDR image for NEW USER to get familar with this program.
+#### The original distribution contain a SAMPLE HDR image for NEW USER to get familar with this program.
 --------------------------------------------------------------------------------------------------------------------------
