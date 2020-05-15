@@ -2,12 +2,15 @@
 #### Retrieve illuminance from Radiance HDR image with region of interest (ROI) lux selection
 
 Version: 1.0.1
+
 Updated: 05/13/2020	
+
 Authors: Hankun Li, Hongyi Cai, Siqi He
+
 University of Kansas	
 
-Questions about program? Contact: hankunli@ku.edu 
-Lighting variables' questions? Contact: hycai@ku.edu 
+* Questions about program? Contact: hankunli@ku.edu 
+* Lighting variables' questions? Contact: hycai@ku.edu 
 
 ----------------------------------------------------------------------------------------------------------------------
 ### This program is to calculate the illuminance from the High Dynamic Range image (.hdr) taken by circular fisheye lens.
