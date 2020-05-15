@@ -13,7 +13,7 @@ University of Kansas
 * Lighting variables' questions? Contact: hycai@ku.edu 
 
 ----------------------------------------------------------------------------------------------------------------------
-### This program is to calculate the illuminance from the High Dynamic Range image (.hdr) taken by circular fisheye lens.
+### This program is to calculate the illuminance from the High Dynamic Range image (.hdr) taken by fisheye lens.
 
 To learn how to take a 'Good' HDR image for lighting measurement purpose and use it as the input of this program, http://people.ku.edu/~h717c996/publication.html
 
