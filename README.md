@@ -1,25 +1,13 @@
 # illuminanceCalculation
 #### Retrieve illuminance from Radiance HDR image with region of interest (ROI) lux selection
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License.
+Version: 1.0.1
+Updated: 05/13/2020	
+Authors: Hankun Li, Hongyi Cai, Siqi He
+University of Kansas	
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
-
-See the GNU General Public License for more details. 
-You should have received a copy of the GNU General Public License 
-along with this program.  If not, see https://www.gnu.org/licenses/.
-
-*	Version: 1.0.1
-*	Updated: 05/13/2020	
-*	Authors: Hankun Li, Hongyi Cai, Siqi He
-*	University of Kansas	
-
-*	Questions about program? Contact: hankunli@ku.edu 
-*	Lighting variables' questions? Contact: hycai@ku.edu 
+Questions about program? Contact: hankunli@ku.edu 
+Lighting variables' questions? Contact: hycai@ku.edu 
 
 ----------------------------------------------------------------------------------------------------------------------
 ### This program is to calculate the illuminance from the High Dynamic Range image (.hdr) taken by circular fisheye lens.
