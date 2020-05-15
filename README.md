@@ -27,13 +27,13 @@ along with this program.  If not, see https://www.gnu.org/licenses/.
 To learn how to take a 'Good' HDR image for lighting measurement purpose and use it as the input of this program, http://people.ku.edu/~h717c996/publication.html
 
 ----------------------------------------------------------------------------------------------------------------------
-System Requriement:
+## System Requriement:
  
-Windows 7 or above, MacOS 10.10 or above.
+#### Windows 7 or above, MacOS 10.10 or above.
 
-MATLAB release 2018b, 2019a are recommended; Add-on Imgage Processing Toolbox is required.
+#### MATLAB release 2018b, 2019a are recommended; Add-on Imgage Processing Toolbox is required.
 
-### This program has been tested on a computer Intel i5 2.9GHZ with 8GB RAM.
+#### This program has been tested on a computer Intel i5 2.9GHZ with 8GB RAM.
 
 -----------------------------------------------------------------------------------------------------------------------
 ## REFERENCE:
