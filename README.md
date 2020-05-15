@@ -9,7 +9,7 @@ Authors: Hankun Li, Hongyi Cai, Siqi He
 
 University of Kansas	
 
-* Questions about program? Contact: hankunli@ku.edu 
+* Questions on this program? Contact: hankunli@ku.edu 
 * Lighting variables' questions? Contact: hycai@ku.edu 
 
 ----------------------------------------------------------------------------------------------------------------------
