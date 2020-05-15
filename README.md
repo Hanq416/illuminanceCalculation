@@ -39,8 +39,15 @@ Guide to Product Specification.International Organization for Standardization.
 [4]Greg Ward, Radiance File Formats, Radiace reference, Lawrence Berkerly Lab, 2011. https://floyd.lbl.gov/radiance/refer/
 
 -----------------------------------------------------------------------------------------------------------------------
-
+## Sample output of illuminance gradient map, 631 lx
 ![Sample output of illuminance gradient map, 631 lx](https://github.com/Hanq416/illuminanceCalculation/blob/master/sample_pics/1.png)
+
+## Sample output ROI#1, 167 lx, 26.4% of total illuminance
+![Sample output ROI#1](https://github.com/Hanq416/illuminanceCalculation/blob/master/sample_pics/2.jpg)
+
+## Sample output ROI#1, 192 lx, 30.3% of total illuminance
+![Sample output ROI#2](https://github.com/Hanq416/illuminanceCalculation/blob/master/sample_pics/3.jpg)
+
 -----------------------------------------------------------------------------------------------------------------------
 ## Input
 
