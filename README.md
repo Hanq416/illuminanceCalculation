@@ -40,7 +40,7 @@ Guide to Product Specification.International Organization for Standardization.
 
 -----------------------------------------------------------------------------------------------------------------------
 
-![Sample output of illuminance gradient map](illuminanceCalculation/sample_pics/1.png)
+![Sample output of illuminance gradient map, 631 lx](https://github.com/Hanq416/illuminanceCalculation/blob/master/sample_pics/1.png)
 -----------------------------------------------------------------------------------------------------------------------
 ## Input
 
