@@ -102,5 +102,6 @@ If you select the ROI, the output will tell you lux contributed from selection a
 11.Output the visulized lux gradient map.
 
 --------------------------------------------------------------------------------------------------------------------------
-#### The original distribution contain a SAMPLE HDR image for NEW USER to get familar with this program.
+#### The original distribution contain a SAMPLE HDR image for NEW USER to getting familar with this program.
+
 --------------------------------------------------------------------------------------------------------------------------
