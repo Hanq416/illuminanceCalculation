@@ -40,6 +40,8 @@ Guide to Product Specification.International Organization for Standardization.
 
 -----------------------------------------------------------------------------------------------------------------------
 
+![Sample output of illuminance gradient map](illuminanceCalculation/sample_pics/1.png)
+-----------------------------------------------------------------------------------------------------------------------
 ## Input
 
 [1] HDR image (.hdr) or luminance map output from Radiance (.txt).
