@@ -1,5 +1,5 @@
 # illuminanceCalculation
-Retrieve illuminance from Radiance HDR image with ROI lux selection
+#### Retrieve illuminance from Radiance HDR image with ROI lux selection
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
