@@ -22,9 +22,9 @@ To learn how to take a 'Good' HDR image for lighting measurement purpose and use
  
 #### Windows 7 or above, MacOS 10.10 or above.
 
-#### MATLAB release 2018b, 2019a are recommended; Add-on Imgage Processing Toolbox required.
+#### MATLAB release 2018b, 2019a are recommended; Add-on 'Imgage Processing Toolbox' required.
 
-#### This program has been tested on a computer Intel i5 2.9GHZ with 8GB RAM.
+#### This program has been tested on a computer with Intel i5 2.9GHZ and 8GB RAM.
 
 -----------------------------------------------------------------------------------------------------------------------
 ## REFERENCE:
@@ -42,10 +42,10 @@ Guide to Product Specification.International Organization for Standardization.
 ## Sample output of illuminance gradient map, 631 lx
 ![Sample output of illuminance gradient map, 631 lx](https://github.com/Hanq416/illuminanceCalculation/blob/master/sample_pics/1.png)
 
-## Sample output ROI#1, 167 lx, 26.4% of total illuminance
+## Sample output of ROI#1, 167 lx, 26.4% of total illuminance
 ![Sample output ROI#1](https://github.com/Hanq416/illuminanceCalculation/blob/master/sample_pics/2.jpg)
 
-## Sample output ROI#1, 192 lx, 30.3% of total illuminance
+## Sample output of ROI#2, 192 lx, 30.3% of total illuminance
 ![Sample output ROI#2](https://github.com/Hanq416/illuminanceCalculation/blob/master/sample_pics/3.jpg)
 
 -----------------------------------------------------------------------------------------------------------------------
